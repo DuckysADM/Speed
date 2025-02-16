@@ -11,7 +11,7 @@ until LocalPlayer.Character
 local UserInputService = game:service('UserInputService')
 local RunService = game:service('RunService')
 
-getgenv().Multiplier = 6.5
+getgenv().Multiplier = 5.4
 local SpeedEnabled = false
 
 UserInputService.InputBegan:Connect(function(input)
